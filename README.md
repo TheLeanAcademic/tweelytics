@@ -1,7 +1,7 @@
 # tweelytics
 An excessively quaint Python package for Twitter analytics
 
-## Principles
+## Founding Principles
 
   * For educational purposes, then research purposes.
   * Includes only the most useful analytical tools, curated.
@@ -9,6 +9,6 @@ An excessively quaint Python package for Twitter analytics
   * Built *with* tweepy and other packages, not in competition.
 
 
-## Alternatives
+## Alternative Solutions
 
   * [TBC]
