@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 from tweelytics import __version__
 
@@ -9,5 +9,5 @@ setup(
     url='https://github.com/TheLeanAcademic/tweelytics.git',
     author='TheLeanAcademic',
 
-    py_modules=['tweelytics'],
+    packages=find_packages(),
 )
